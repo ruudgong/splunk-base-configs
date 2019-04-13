@@ -1,5 +1,5 @@
 # Splunk Base Configs
----
+
 The following configuration sets are organized in two directories:
 1. base
 2. clustering
